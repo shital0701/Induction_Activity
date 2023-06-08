@@ -1,0 +1,22 @@
+@media screen and (max-width: 800px) {
+    .main{
+        flex-direction: column;
+    }
+
+    .sec1 img{
+        height: 60vh;
+        width:100vw;
+        margin-bottom: 20px;
+       
+    }
+
+    
+  }
+
+  @media screen  and (max-width: 464px){
+    input{
+        width: 75vw;
+    }
+
+    
+  }
